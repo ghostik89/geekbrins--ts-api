@@ -6,7 +6,7 @@ yarn install //если вы впервые скачали проект
 yarn run start //запускает сервер с api
 ```
 
-GET-запрос: http://localhost:5000/?name=<your_name>&description=<your_description>&price=<your_price>
+GET-запрос: http://localhost:5000/api/v1/places?name=<your_name>&description=<your_description>&price=<your_price>
 
 Любой из параметров может быть пустым
 
